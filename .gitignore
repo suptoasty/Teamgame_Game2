@@ -2,7 +2,6 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
-Content\StarterContent\HDRI\HDRI_Epic_Courtyard_Daylight.uasset
 .vscode
 .vs
 *.VC.db
@@ -13,3 +12,4 @@ Content\StarterContent\HDRI\HDRI_Epic_Courtyard_Daylight.uasset
 *.suo
 *.xcodeproj
 *.xcworkspace
+Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset
